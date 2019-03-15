@@ -24,3 +24,6 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+input, option, select {
+    background-color: gray;
+}
